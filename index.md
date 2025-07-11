@@ -6,7 +6,7 @@ Welcome to my personal website and project portfolio. I’m a software engineer 
 
 ## 🧑‍💻 About Me
 
-I am a recent graduate with a Master of Science in Computer Science from Seattle University and a Bachelor’s degree in Computer Science from Vietnam.
+I am a recent graduate with a **Master of Science in Computer Science** from Seattle University and a **Bachelor’s degree in Computer Science** from Vietnam.  
 
 I have 2 years of experience developing software and building game applications using C++, as well as over 2 years working with data structures. I am a problem solver, fast learner, and highly adaptable. I’m seeking opportunities to further improve my technical and management skills while helping others grow.
 
@@ -14,20 +14,20 @@ I have 2 years of experience developing software and building game applications 
 
 ## 🎓 Education
 
-Seattle University — Master of Science in Computer Science* 
-Seattle, WA
+**Seattle University** — *Master of Science in Computer Science*  
+*Seattle, WA*  
 Mar 2022 – Dec 2024
 
-HCMC University of Technology (HCMUT) — Bachelor of Engineering in Computer Science
-Ho Chi Minh City, Vietnam
+**HCMC University of Technology (HCMUT)** — *Bachelor of Engineering in Computer Science*  
+*Ho Chi Minh City, Vietnam*  
 Sep 2010 – Apr 2016
 
 ---
 
 ## 💼 Professional Experience
 
-SMT Operator III
-Qualitel – Everett, WA
+**SMT Operator III**  
+*Qualitel – Everett, WA*  
 Jan 2019 – Present
 
 - Debugged production issues through SMT software and built new programs for SPI, printer, and SMT machines.
@@ -36,8 +36,8 @@ Jan 2019 – Present
 
 ---
 
-Software Engineer  
-Tamtay Global Vietnam
+**Software Engineer**  
+*Tamtay Global Vietnam*  
 Sep 2017 – Apr 2018
 
 - Developed a multi-platform game across 5 Asian countries.
@@ -47,8 +47,8 @@ Sep 2017 – Apr 2018
 
 ---
 
-Software Engineer
-VNG Corporation, Vietnam
+**Software Engineer**  
+*VNG Corporation, Vietnam*  
 May 2016 – Jun 2017
 
 - Developed iCa-Zingplay, a PvP fishing game with 10 million installs and top 10 ranking in Google Play Vietnam.
@@ -59,7 +59,7 @@ May 2016 – Jun 2017
 
 ## 🚀 Projects
 
-📘 [Seamazon](https://github.com/minhlamvn/Seamazon)
+### 📘 [Seamazon](https://github.com/minhlamvn/Seamazon)
 An online shopping platform inspired by Amazon:
 - Python (Flask) backend
 - HTML/CSS frontend
@@ -68,7 +68,7 @@ An online shopping platform inspired by Amazon:
 
 ---
 
-📚 [BookWorm](https://github.com/minhlamvn/Bookworm)
+### 📚 [BookWorm](https://github.com/minhlamvn/Bookworm)
 A mobile app to manage and track book collections:
 - Flutter & Dart frontend
 - Firebase backend
@@ -76,7 +76,7 @@ A mobile app to manage and track book collections:
 
 ---
 
-🌐 [YourMobileGuide](https://github.com/minhlamvn/YourMobileGuide)
+### 🌐 [YourMobileGuide](https://github.com/minhlamvn/YourMobileGuide)
 A full-stack web application:
 - C# backend
 - CSS frontend
@@ -84,10 +84,10 @@ A full-stack web application:
 
 ---
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-Languages: Python, C/C++, C#, Java, SQL, HTML/CSS, JavaScript  
-Tools: Git, VS Code, Visual Studio, PyCharm, MySQL Workbench  
+**Languages:** Python, C/C++, C#, Java, SQL, HTML/CSS, JavaScript  
+**Tools:** Git, VS Code, Visual Studio, PyCharm, MySQL Workbench  
 **Soft Skills:** Data Structures, Unit Testing & CI/CD, Problem Solving, Critical Thinking, Organization
 
 ---
