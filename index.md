@@ -1,5 +1,3 @@
-
-
 ## 🧑‍💻 About Me
 
 I am a recent graduate with a **Master of Science in Computer Science** from Seattle University and a **Bachelor’s degree in Computer Science** from Vietnam.  
