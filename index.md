@@ -1,8 +1,4 @@
-# 🌟 Minh Lam
 
-Welcome to my personal website and project portfolio. I’m a software engineer passionate about building applications that make an impact.
-
----
 
 ## 🧑‍💻 About Me
 
