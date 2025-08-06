@@ -20,13 +20,13 @@ Sep 2010 – Apr 2016
 
 ## 💼 Professional Experience
 
-**SMT Operator III**  
+**SMT Operator III / Line Lead**  
 *Qualitel – Everett, WA*  
 Jan 2019 – Present
 
-- Debugged production issues through SMT software and built new programs for SPI, printer, and SMT machines.
-- Produced 1.6 million placements per week.
-- Increased SMT machine speed by 150% and improved lead accuracy on PCBs.
+- Lead daily SMT line operations including work order setup, machine programming (SPI, printer, SMT), and shift planning using Monday.com and Excel tracking tools.
+- Improved SMT machine performance by 150% through debugging, optimization, and accurate program development, achieving over 1.6 million placements weekly.
+- Resolved production issues through hands-on troubleshooting and collaboration with engineers, while ensuring 5S standards, quality checks, and end-of-shift reporting were met.
 
 ---
 
@@ -34,10 +34,9 @@ Jan 2019 – Present
 *Tamtay Global Vietnam*  
 Sep 2017 – Apr 2018
 
-- Developed a multi-platform game across 5 Asian countries.
-- Worked on architecture and front-end implementation in a team of 3.
-- Improved stability and reduced bugs by 30%.
-- Technologies: C/C++, JavaScript, Cocos2dJS API, Git.
+- Developed and maintained a multi-platform game released across five Asian countries, contributing to front-end architecture and implementation in a 3-person team.
+- Improved game stability and reduced bugs by 30% through proactive debugging and UI enhancements.
+- Utilized C/C++, JavaScript, Cocos2d-JS API, and Git to deliver efficient and engaging user experiences.
 
 ---
 
@@ -45,9 +44,9 @@ Sep 2017 – Apr 2018
 *VNG Corporation, Vietnam*  
 May 2016 – Jun 2017
 
-- Developed iCa-Zingplay, a PvP fishing game with 10 million installs and top 10 ranking in Google Play Vietnam.
-- Responsible for implementing and debugging UI features and maintaining the Windows Phone version.
-- Technologies: C/C++, C#, Cocos2dx API, Git.
+- Worked on iCa-Zingplay, a top-10 free PvP fishing game with over 10 million installs on Google Play.
+- Implemented and debugged new UI features and maintained full responsibility for the Android and Windows Phone version.
+- Applied C/C++, C#, Cocos2d-x API, and Git in a collaborative 10-person development team.
 
 ---
 
