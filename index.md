@@ -51,7 +51,7 @@ architecture and implementation in a 5-person team.
 *VNG Corporation, Vietnam*  
 May 2016 – Jun 2017
 
-VNG Corporation https://www.linkedin.com/company/vng-corporation/ Vietnam
+VNG Corporation https://www.linkedin.com/company/vng-corporation/
 • Worked on iCa-Zingplay, a top-10 free PvP fishing game with over 10 million installs on Google Play.
 • Implemented and debugged new UI features and maintained full responsibility for the Android and Windows Phone
 version.
