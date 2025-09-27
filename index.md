@@ -25,13 +25,13 @@ Sep 2010 – Apr 2016
 *Qualitel – Everett, WA*  
 Jan 2019 – Present
 
-• Provide engineering support for SMT production lines, including work order setup, SPI/printer/SMT machine
+- Provide engineering support for SMT production lines, including work order setup, SPI/printer/SMT machine
 programming, and shift planning using Monday.com and Excel.
-• Improved machine throughput by 150% through debugging, optimization, and program development, achieving
+- Improved machine throughput by 150% through debugging, optimization, and program development, achieving
 1.6M+ placements weekly.
-• Partner with engineers to diagnose and resolve production issues, applying root-cause analysis while maintaining 5S
+- Partner with engineers to diagnose and resolve production issues, applying root-cause analysis while maintaining 5S
 standards, in-process quality checks, and compliance reporting.
-• Supported continuous improvement by translating operator feedback into technical solutions that enhanced
+- Supported continuous improvement by translating operator feedback into technical solutions that enhanced
 reliability, reduced downtime, and improved product quality.
 
 ---
@@ -40,10 +40,10 @@ reliability, reduced downtime, and improved product quality.
 *Tamtay Global Vietnam*  
 Sep 2017 – Apr 2018
 
-• Developed and maintained a multi-platform game released across five Asian countries, contributing to front-end
+- Developed and maintained a multi-platform game released across five Asian countries, contributing to front-end
 architecture and implementation in a 5-person team.
-• Improved game stability and reduced bugs by 30% through proactive debugging and UI enhancements.
-• Utilized C/C++, JavaScript, Cocos2d-JS API, and Git to deliver efficient and engaging user experiences.
+- Improved game stability and reduced bugs by 30% through proactive debugging and UI enhancements.
+- Utilized C/C++, JavaScript, Cocos2d-JS API, and Git to deliver efficient and engaging user experiences.
 
 ---
 
@@ -52,10 +52,10 @@ architecture and implementation in a 5-person team.
 May 2016 – Jun 2017
 
 VNG Corporation https://www.linkedin.com/company/vng-corporation/
-• Worked on iCa-Zingplay, a top-10 free PvP fishing game with over 10 million installs on Google Play.
-• Implemented and debugged new UI features and maintained full responsibility for the Android and Windows Phone
+- Worked on iCa-Zingplay, a top-10 free PvP fishing game with over 10 million installs on Google Play.
+- Implemented and debugged new UI features and maintained full responsibility for the Android and Windows Phone
 version.
-• Applied C/C++, C#, Cocos2d-x API, and Git in a collaborative 10-person development team.
+- Applied C/C++, C#, Cocos2d-x API, and Git in a collaborative 10-person development team.
 
 ---
 
