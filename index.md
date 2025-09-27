@@ -1,8 +1,9 @@
 ## 🧑‍💻 About Me
 
-I am a recent graduate with a **Master of Science in Computer Science** from Seattle University and a **Bachelor’s degree in Computer Science** from Vietnam.  
-
-I have 2 years of experience developing software and building game applications using C++, as well as over 2 years working with data structures. I am a problem solver, fast learner, and highly adaptable. I’m seeking opportunities to further improve my technical and management skills while helping others grow.
+Master of Science in Computer Science graduate from Seattle University with 2 years of professional software engineering
+experience in game development (C++) and strong foundations in data structures and algorithms. Fast learner, problem
+solver, and adaptable professional seeking opportunities to grow technical expertise and leadership skills in innovative
+environments.
 
 ---
 
@@ -20,13 +21,18 @@ Sep 2010 – Apr 2016
 
 ## 💼 Professional Experience
 
-**SMT Operator III / Line Lead**  
+**SMT Operator III / Support Engineer **  
 *Qualitel – Everett, WA*  
 Jan 2019 – Present
 
-- Lead daily SMT line operations including work order setup, machine programming (SPI, printer, SMT), and shift planning using Monday.com and Excel tracking tools.
-- Improved SMT machine performance by 150% through debugging, optimization, and accurate program development, achieving over 1.6 million placements weekly.
-- Resolved production issues through hands-on troubleshooting and collaboration with engineers, while ensuring 5S standards, quality checks, and end-of-shift reporting were met.
+• Provide engineering support for SMT production lines, including work order setup, SPI/printer/SMT machine
+programming, and shift planning using Monday.com and Excel.
+• Improved machine throughput by 150% through debugging, optimization, and program development, achieving
+1.6M+ placements weekly.
+• Partner with engineers to diagnose and resolve production issues, applying root-cause analysis while maintaining 5S
+standards, in-process quality checks, and compliance reporting.
+• Supported continuous improvement by translating operator feedback into technical solutions that enhanced
+reliability, reduced downtime, and improved product quality.
 
 ---
 
@@ -34,9 +40,10 @@ Jan 2019 – Present
 *Tamtay Global Vietnam*  
 Sep 2017 – Apr 2018
 
-- Developed and maintained a multi-platform game released across five Asian countries, contributing to front-end architecture and implementation in a 3-person team.
-- Improved game stability and reduced bugs by 30% through proactive debugging and UI enhancements.
-- Utilized C/C++, JavaScript, Cocos2d-JS API, and Git to deliver efficient and engaging user experiences.
+• Developed and maintained a multi-platform game released across five Asian countries, contributing to front-end
+architecture and implementation in a 5-person team.
+• Improved game stability and reduced bugs by 30% through proactive debugging and UI enhancements.
+• Utilized C/C++, JavaScript, Cocos2d-JS API, and Git to deliver efficient and engaging user experiences.
 
 ---
 
@@ -44,9 +51,11 @@ Sep 2017 – Apr 2018
 *VNG Corporation, Vietnam*  
 May 2016 – Jun 2017
 
-- Worked on iCa-Zingplay, a top-10 free PvP fishing game with over 10 million installs on Google Play.
-- Implemented and debugged new UI features and maintained full responsibility for the Android and Windows Phone version.
-- Applied C/C++, C#, Cocos2d-x API, and Git in a collaborative 10-person development team.
+VNG Corporation https://www.linkedin.com/company/vng-corporation/ Vietnam
+• Worked on iCa-Zingplay, a top-10 free PvP fishing game with over 10 million installs on Google Play.
+• Implemented and debugged new UI features and maintained full responsibility for the Android and Windows Phone
+version.
+• Applied C/C++, C#, Cocos2d-x API, and Git in a collaborative 10-person development team.
 
 ---
 
