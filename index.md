@@ -66,7 +66,7 @@ An online shopping platform inspired by Amazon:
 - Python (Flask) backend
 - HTML/CSS frontend
 - SQLite database
-- Features: user/admin authentication, product management, search, shopping cart, and checkout simulation.
+- Features: Designed and managed the SQLite schema and used SQL−Alchemy to define relationships, ensuring atomic transactions for the checkout process and implementing role-based authorization.
 
 ---
 
@@ -74,7 +74,7 @@ An online shopping platform inspired by Amazon:
 A mobile app to manage and track book collections:
 - Flutter & Dart frontend
 - Firebase backend
-- Features: add books, manage reading status, search, and organize collections.
+- Features: Chose Firebase to rapidly deploy a scalable, serverless backend, allowing the Flutter front-end to focus purely on state management and native mobile UX.
 
 ---
 
@@ -90,7 +90,7 @@ A full-stack web application:
 
 **Languages:** Python, C/C++, C#, Java, SQL, HTML/CSS, JavaScript  
 **Tools:** Git, VS Code, Visual Studio, PyCharm, MySQL Workbench  
-**Soft Skills:** Data Structures, Unit Testing & CI/CD, Problem Solving, Critical Thinking, Organization
+**Core Competencies:** Data Structures & Algorithms, Unit Testing, CI/CD, Optimization, Debugging
 
 ---
 
